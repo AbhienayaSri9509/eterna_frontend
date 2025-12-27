@@ -121,8 +121,8 @@ Open: http://localhost:3000
 The application is deployed using Vercel.
 
 🔗 Live Demo:
-https://eterna-frontend-axru-2akcknslc-abhienayasri9509s-projects.vercel.app , 
-eterna-frontend-axru.vercel.app 
+https://eterna-frontend-axru-2akcknslc-abhienayasri9509s-projects.vercel.app ,                                                                                   
+https://eterna-frontend-axru.vercel.app/
 
 
 📱 Responsive Design
