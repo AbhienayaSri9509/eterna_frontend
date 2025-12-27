@@ -121,22 +121,9 @@ Open: http://localhost:3000
 The application is deployed using Vercel.
 
 🔗 Live Demo:
-👉 Add your Vercel deployment link here
+https://eterna-frontend-axru-2akcknslc-abhienayasri9509s-projects.vercel.app , 
+eterna-frontend-axru.vercel.app 
 
-🎥 Demo Video
-
-A short video demonstrating:
-
-Table interactions
-
-Real-time price updates
-
-Loading states
-
-Responsive layout
-
-📺 YouTube Link:
-👉 Add your public YouTube demo link here
 
 📱 Responsive Design
 
